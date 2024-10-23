@@ -2,6 +2,7 @@ node_modules
 .idea
 dist
 yarn-error.log
+*.tgz
 # OSX
 #
 example/.DS_Store
