@@ -310,8 +310,7 @@ Show your ❤️ and support by giving a ⭐. Any suggestions are welcome! venka
 
 Buy me a cup of coffee,
 
-Binance Smart Chain - 0x7C6Bfb7f240f6028Fd2a0039924826eD8B879635
-Ethereum - 0x7C6Bfb7f240f6028Fd2a0039924826eD8B879635
+Binance Smart Chain or Ethereum - 0x7C6Bfb7f240f6028Fd2a0039924826eD8B879635
 
 ## License
 
